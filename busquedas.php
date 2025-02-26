@@ -13,8 +13,10 @@
 
 <div class="container px-4 text-center">
     <legend class="mt-4">Base de Datos</legend>
-    <button type="submit" class="btn btn-outline-secondary">Consultar</button>
-    </div>
-    
+        <form action="./mostrar.php">  
+            <button type="submit" class="btn btn-outline-secondary">Consultar</button>
+        </form>
+</div>
+
 </body>
 </html>
